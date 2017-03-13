@@ -50,4 +50,8 @@ J Dalbey's Programming Practice problems [http://users.csc.calpoly.edu/~jdalbey/
 
 ## Submitting Incomplete Problems
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.
-
+only row and cells = colulmns aren't real
+const matrix1 = [
+[9,8,7],
+[5,3,2],
+[6,6,7],]
